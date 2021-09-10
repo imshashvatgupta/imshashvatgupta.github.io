@@ -147,7 +147,7 @@ input, select, textarea {
 
 	h2 {
 		font-size: 2em;
-		line-height: 1.5em;
+		line-height: 1.0em;
 		letter-spacing: -0.025em;
 	}
 
@@ -2621,7 +2621,7 @@ input, select, textarea {
 		}
 
 			ul.icons li .icon {
-				font-size: 0.8em;
+				font-size: 1.5em;
 			}
 
 				ul.icons li .icon:before {
@@ -3532,8 +3532,8 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #272833;
-		padding: 6em 0;
+		background: #181920;
+		padding: 1em 0;
 		text-align: center;
 	}
 
